@@ -1,0 +1,44 @@
+no Html
+tenho dentro do meu body, uma classe global que envolve todo o projeto,as classes container e o row, sao necessarios para que o grid funcione.
+o bootstrap usa vários containers, linhas e colunas para arranjar e alinhar conteúdo. Ele é feito com flexbox e é, totalmente, responsivo. ( ou seja este projeto vai se adaptar aos limites da tela.)
+
+temos uma img> banner que serve apenas para simular um clip e afins.
+
+e um botao que tem como objetivo colocar para tocar a musica.
+
+
+No CSS>
+
+> encontramos as classes 
+
+.global{background-color: #ffffff;} aqui temos uma cor que envolve todo meu HTML que é praticamente uma cor "branca".
+
+.grade{font-family:verdana;font-size: 18px;border-bottom: 3px solid red;margin-top: 10px; margin-bottom: 10px; } este envolve onde esta escrito "Confira a grade de programação Radio "
+temos uma fonte: verdana, o tamanho da letra de 18px, uma borda embaixo de 3px ela é solida da cor vermelha, ela tem uma margem do top de 10px, e uma margem de baixo tambem de 10px.
+
+
+.cm7{color:#9a0000;} no meu HTML o meu CM7 é um span isso significa que ele é uma palavra com destaque.
+por isso ele tem uma cor basicamente vermelho forte puxado pro nedrito.
+
+.mais_tocadas{background-color:#e4e4e4;overflow:hidden; margin-top: 15px; }
+dentro desta classe temos uma cor cinza claro, linhas por assim dizer em volta de frases como "De 6h as 8h Musica Sertaneja", temos tambem uma margen do topo de 15px.
+
+.ouvir{font-family:verdana;font-size: 18px;color:#b40000;  }
+esta clase ouvir se trata de da frase "Ouça a rádio CM7"> temos uma fonte: verdana; o tamanho da letra de 18px e uma cor vermelha.
+
+.play{width:100%;border: none;font-size: 18px;padding: 7px;}
+
+a classe play envolve o botao que teria a função de colocar as musicas para tocar.
+
+.banner{width: 100%;margin-top: 7px;float: right;max-width: 100%;}
+esta classe sao as unidade de medida da minha imagem banner.
+
+
+
+OBS:ESTE É UM PROJETO PROFISSIONAL / Favorecendo a empresa  "Albreis Network"/apenas uma pagina estatica
+
+o arquivo psd encontra-se junto a pasta imagens.
+
+
+Francine Hollweg : Programador junior 
+

@@ -1,0 +1,20 @@
+
+.global{background-color: #ffffff;}
+
+
+
+.grade{font-family:verdana;font-size: 18px;border-bottom: 3px solid red;margin-top: 10px; margin-bottom: 10px; }
+
+
+.cm7{color:#9a0000;}
+
+
+
+.mais_tocadas{background-color:#e4e4e4;overflow:hidden; margin-top: 15px; }
+
+.ouvir{font-family:verdana;font-size: 18px;color:#b40000;  }
+
+
+.play{width:100%;border: none;font-size: 18px;padding: 7px;} 
+
+.banner{width: 100%;margin-top: 7px;float: right;max-width: 100%;}
